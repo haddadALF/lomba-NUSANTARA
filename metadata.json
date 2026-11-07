@@ -1,0 +1,7 @@
+{
+  "name": "NUSANTARA-SMS — Defensive Cybersecurity Platform",
+  "description": "Kartika Cyber Hackathon 2026 (Perisai Pertahanan). Detect. Prevent. Analyze. Respond. Real-time Suricata IDS/IPS, WAF, and Threat Intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
